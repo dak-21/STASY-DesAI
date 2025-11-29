@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of STASY",
+  "description": "STASY - AI-powered Stampede Management System. Detects crowd surges, analyzes risks, and coordinates emergency responses in real-time.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
